@@ -1,1 +1,3 @@
 Finalement, qu'es ce que la belle vie?
+
+Est ce que ce n'est pas de pouvoir coder tranquilou depuis chez soi et sentir que l'on progresse et que l'on tient le bon bout...
