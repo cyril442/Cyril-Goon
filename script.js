@@ -1,5 +1,7 @@
 
-			<div>
+La V2 du script ci-dessous: 
+
+<div>
 <?php 
 		$et2 = new Etape(2, $this->id);
 		ob_start();
